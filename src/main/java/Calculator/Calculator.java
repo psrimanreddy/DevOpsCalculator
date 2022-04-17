@@ -4,7 +4,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import java.util.Scanner;
 import static java.lang.System.exit;
-import java.io.*;
 
 public class Calculator {
 
