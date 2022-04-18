@@ -13,12 +13,12 @@ public class Calculator {
     }
 
     public double squareRoot(double var){
-        logger.info("Calculating Square Root of : " + var + "\n Result : " + Math.sqrt(var));
+        logger.info("squareRoot");
         return Math.sqrt(var);
     }
     public double factorial(double var){
         if(var < 0){
-            logger.info("Factorial of negative number is not possible!");
+            logger.info("factorial");
             return Double.NaN;
         }
         else{
@@ -26,18 +26,18 @@ public class Calculator {
             for(int i = 1; i <= var; i++){
                 fact *= i;
             }
-            logger.info("Factorial of the number : " + var + "\n Result is : " + fact);
+            logger.info("factorial");
             return fact;
         }
     }
 
     public double logarithm(double var){
-        logger.info("Calculating Natural Logarithm of : " + var + "\n Result : " + Math.log(var));
+        logger.info("logarithm");
         return Math.log(var);
     }
 
     public double power(double var1, double var2){
-        logger.info("Power : " + var1 + "^" + var2 + "/n Result : " + Math.pow(var1, var2));
+        logger.info("power");
         return Math.pow(var1, var2);
     }
 
