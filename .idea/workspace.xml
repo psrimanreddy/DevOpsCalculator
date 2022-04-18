@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="28d6d154-edb9-4eaf-bb8b-0cbb19e5987c" name="Changes" comment="calculator changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorDevOps.log" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorDevOps.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
